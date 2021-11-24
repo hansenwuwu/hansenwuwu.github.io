@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hansenwuwu.github.io/2021/11/24/go-note-2-module/</loc>
+    
+    <lastmod>2021-11-24</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://hansenwuwu.github.io/2021/11/23/go-01/</loc>
     
     <lastmod>2021-11-24</lastmod>
@@ -26,6 +33,13 @@
   
   <url>
     <loc>https://hansenwuwu.github.io/tags/Golang/</loc>
+    <lastmod>2021-11-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hansenwuwu.github.io/tags/Module/</loc>
     <lastmod>2021-11-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
